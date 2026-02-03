@@ -1,7 +1,7 @@
 # Post-Quantum-TLS-Traffic-Captures-for-O-RAN
 
 ## Overview
-This repository contains packet capture (PCAP) artifacts collected from controlled experiments on a real **OpenAirInterface (OAI) O-RAN testbed** at **UCD NetsLab**. The dataset captures TLS 1.3 secure channel establishment between the O-RAN Centralized Unit (O-CU) and Distributed Unit (O-DU) over the CU–DU transport (fronthaul) network.
+This repository contains packet capture (PCAP) artifacts collected from controlled experiments on a real **OpenAirInterface (OAI) O-RAN testbed** at **[UCD NetsLab](https://netslab.ucd.ie/testbed/)**, University College Dublin. The dataset captures TLS 1.3 secure channel establishment between the O-RAN Centralized Unit (O-CU) and Distributed Unit (O-DU) over the CU–DU transport (fronthaul) network.
 
 Experiments were conducted using a **post-quantum-enabled build of BoringSSL**, enabling negotiation of classical, hybrid, and post-quantum cryptographic algorithms.
 
@@ -60,4 +60,3 @@ If you use this dataset, please cite the associated paper (forthcoming).
 
 ---
 
-## Repository Structure
